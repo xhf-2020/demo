@@ -8,5 +8,6 @@ public class demo01 {
         System.out.println("第一次提交");
         System.out.println("第二次提交");
         System.out.println("主干");
+        System.out.println("分支");
     }
 }
